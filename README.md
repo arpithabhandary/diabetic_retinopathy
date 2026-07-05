@@ -5,7 +5,7 @@
 ### AI-powered retinal disease detection with Explainable AI (Grad-CAM)
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Project Banner">
+  <img src="Gemini_Generated_Image_z9jdvmz9jdvmz9jd.png" width="100%" alt="Project Banner">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
